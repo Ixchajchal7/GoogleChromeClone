@@ -1,4 +1,4 @@
-#GoogleChromeClone
+# GoogleChromeClone
 
 This is a clone of the Google Chrome browser's landing page created using HTML, CSS, and JavaScript.
 
