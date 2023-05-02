@@ -14,7 +14,7 @@ Footer with links to Google services and company information
 
 HTML
 CSS
-JavaScript
+
 
 # How to Use
 
